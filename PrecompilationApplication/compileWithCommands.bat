@@ -1,0 +1,1 @@
+Telerik.Sitefinity.Compiler.exe /url="http://localhost:1201" /appdir="D:\Sitefinity 8.0.5702\Projects\Project805702" /username="admin" /password="password" /strategy="Frontend" /membershipprovider="Default"
